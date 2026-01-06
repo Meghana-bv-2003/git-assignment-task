@@ -1,1 +1,3 @@
 b1 is modified in master
+folder2 b1 file is modified in first branch
+

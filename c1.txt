@@ -1,1 +1,3 @@
 c1 is modified in master
+folder3-c1 file is modified in second branch
+

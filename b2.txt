@@ -1,1 +1,3 @@
 b2 is modified in master
+folder 2 b2 file is modified
+
